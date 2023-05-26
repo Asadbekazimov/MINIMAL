@@ -77,7 +77,7 @@ html{
 }
 
 .nav__link {
-    font-size: 12px;
+    font-size: 20px;
     line-height: 20px;
     color: var(--link);
     font-family: var(--OO);
